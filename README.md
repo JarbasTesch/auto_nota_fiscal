@@ -83,7 +83,7 @@
     <h2>Notes</h2>
     <ul>
         <li>The <strong>NotasEmitir.xlsx</strong> file should be properly formatted with the necessary columns for the invoice generation process.</li>
-        <li>You may need to update the path of your <strong>login.html</strong> and <strong>NotasEmitir.xlsx</strong> files depending on your local environment.</li>
+        <li>When you clone the project, the <code>login.html</code> and <code>NotasEmitir.xlsx</code> files will already be in the project folder. However, if you move or reorganize the project files, you may need to update the paths accordingly.</li>
         <li>Ensure that the <strong>Chrome WebDriver</strong> is properly installed and available on your machine.</li>
     </ul>
 </section>
