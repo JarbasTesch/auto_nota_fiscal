@@ -36,11 +36,13 @@
         <li><code>pandas</code> library</li>
         <li><code>webdriver-manager</code> library</li>
     </ul>
-
-    <h3>Install Requirements</h3>
-    <p>To run the script, install the required dependencies using <code>pip</code>:</p>
-    <pre>pip install selenium pandas webdriver-manager</pre>
 </section>
+<section>
+    <h2>Install Requirements</h2>
+    <p>To run the script, install the required dependencies using <code>pip</code>:</p>
+    <pre><code>pip install --upgrade -r requirements.txt</code></pre>
+</section>
+
 
 <section>
     <h2>How to Use</h2>
