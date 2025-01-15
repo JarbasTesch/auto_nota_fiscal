@@ -88,14 +88,5 @@
     </ul>
 </section>
 
-<section>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
-</section>
-
-<footer>
-    <p>&copy; 2025 AutoNotaFiscal. All rights reserved.</p>
-</footer>
-
 </body>
 </html>
