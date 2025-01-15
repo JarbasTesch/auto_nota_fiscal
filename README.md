@@ -14,7 +14,7 @@
 
 <section>
     <h2>Description</h2>
-    <p><strong>AutoNotaFiscal</strong> is an automated script developed using Python and Selenium that simulates the generation of invoices. The script integrates data from an Excel file and automatically enters information into web forms, simulating the entire process of logging into a platform and issuing invoices.</p>
+    <p><strong>auto_nota_fiscal</strong> is an automated script developed using Python and Selenium that simulates the generation of invoices. The script integrates data from an Excel file and automatically enters information into web forms, simulating the entire process of logging into a platform and issuing invoices.</p>
 </section>
 
 <section>
