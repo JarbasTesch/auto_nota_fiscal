@@ -51,7 +51,7 @@
         <li>Make sure you have Chrome browser installed.</li>
         <li>Ensure that the required <code>login.html</code> and <code>NotasEmitir.xlsx</code> files are available and contain the appropriate data (login credentials accept any input).</li>
         <li>Run the Python script:</li>
-        <pre>python auto_nota_fiscal.py</pre>
+        <pre>python main.py</pre>
         <li>The script will log in to the platform and automatically enter invoice data from the Excel file, simulating the process of issuing invoices.</li>
     </ol>
 </section>
